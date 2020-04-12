@@ -8,9 +8,9 @@ def using_insert(array, new_element)
   array.insert(3,new_element)
 end
 
-#Destructively remove duplicate items from the array
+#Non-destructively remove duplicate items from the array
 def using_uniq(array)
-  array.uniq
+ unique_array = array.uniq
 end
 
 def 
