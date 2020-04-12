@@ -14,7 +14,8 @@ def using_uniq(array)
  unique_array = array.uniq
 end
 
-def 
+#Takes a nested array & return an array of strings
+def using_flatten(array)
   
 end
 
