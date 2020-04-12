@@ -16,7 +16,7 @@ end
 
 #Takes a nested array & return an array of strings
 def using_flatten(array)
-  jdn
+  array.flatten
 end
 
 #Destructively delete the string from the array
