@@ -5,7 +5,7 @@ end
 
 #Add the new element to the 4th index of the array
 def using_insert(array, new_element)
-  
+  array.insert(3,new_element)
 end
 
 def 
