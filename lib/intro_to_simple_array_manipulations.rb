@@ -19,6 +19,7 @@ def using_flatten(array)
   
 end
 
+#Destructively delete the string from the array
 def using_delete(array, string)
   array.delete(string)
 end
